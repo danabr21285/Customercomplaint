@@ -95,10 +95,10 @@ To replicate this analysis, clone the repository and run the Jupyter Notebook:
 
 ```bash
 # Clone the repository
-git clone [Your Repository URL]
+git clone [(https://github.com/danabr21285/Customercomplaint.git)]
 
 # Navigate to the project directory
-cd [Your-Repository-Name]
+cd [Customercomplaint]
 
 # It is recommended to use a virtual environment
 python -m venv venv
